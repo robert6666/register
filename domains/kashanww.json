@@ -3,9 +3,6 @@
     "username": "robert6666"
   }
   "record": {
-    "A": [
-      "5.9.155.50"
-    ]
     "NS": [
       "ns3.main-dns-cloud.xyz",
       "ns4.main-dns-cloud.xyz"
